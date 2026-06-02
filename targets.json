@@ -4092,5 +4092,19 @@
                 "firmware": "Unified_ESP32C3_2400_RX"
             }
         }
+    },
+    "waveshare": {
+        "name": "Waveshare",
+        "tx_2400": {
+            "ESP32-S3-Tiny": {
+                "product_name": "Waveshare ESP32-S3-Tiny 2.4GHz TX",
+                "lua_name": "Waveshare ESP32-S3 Tiny",
+                "layout_file": "WaveshareTiny.json",
+                "upload_methods": ["uart", "wifi", "etx"],
+                "min_version": "3.5.0",
+                "platform": "esp32-s3",
+                "firmware": "Unified_ESP32S3_2400_TX"
+            }
+        }
     }
 }
