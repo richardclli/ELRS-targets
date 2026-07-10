@@ -20,6 +20,9 @@
   "power_control": 0,
   "power_values": [ 2, 6, 9, 13 ],
   "power_lna_gain": 8,
-  "led_rgb": 38,
-  "led_rgb_isgrb": true
-  }
+  "button": 17,
+  "led_rgb": 18,
+  "led_rgb_isgrb": false,
+  "ledidx_rgb_status": [0,1],
+  "ledidx_rgb_boot": [0,1]
+}
