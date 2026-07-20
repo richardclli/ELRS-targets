@@ -22,7 +22,7 @@
   "power_lna_gain": 8,
   "button": 17,
   "led_rgb": 18,
-  "led_rgb_isgrb": false,
+  "led_rgb_isgrb": true,
   "ledidx_rgb_status": [0,1],
   "ledidx_rgb_boot": [0,1]
 }
